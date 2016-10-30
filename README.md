@@ -7,7 +7,7 @@ This data were manually taken from facebook official fan page of 4 series
 
 Every row is a post in one of the pages.
 The variables are named in italian but their are easy to undersand. Here the description from the first until the last column
-*1 TITOLO : Title - the name of the serie
+* 1 TITOLO : Title - the name of the serie
 *2 EPISODIO : Episode - the number of the episod and season
 *3 DATA : Date - the date of the post
 *4 TIPO : Type - the type of content of the post
