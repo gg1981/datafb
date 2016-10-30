@@ -1,9 +1,9 @@
 # datafb
 This data were manually taken from facebook official fan page of 4 series
-#####*Scandal
-###*Grey's anatomy
-*How to get away with murder
-*The catch
+#####Scandal
+#####Grey's anatomy
+#####How to get away with murder
+#####The catch
 
 Every row is a post in one of the pages.
 The variables are named in italian but their are easy to undersand. Here the description from the first until the last column
